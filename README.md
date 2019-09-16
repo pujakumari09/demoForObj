@@ -1,2 +1,0 @@
-# demoForObj
-Created with CodeSandbox
